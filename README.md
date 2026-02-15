@@ -1,46 +1,62 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=240&section=header&text=Hi%20I'm%20Mugilan%20Y&fontSize=60&animation=fadeIn&fontAlignY=38"/>
+  
+  <h1> AI & ML Engineer | Problem Solver | Tech Enthusiast</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=240&section=header&text=Hi%20I'm%20Mugilan%20Y&fontSize=60&animation=fadeIn&fontAlignY=38"/>
-
-# 🧠 AI / ML Engineer in Progress  
-### Building systems where **Machine Learning meets scalable backend engineering**
-
-<p align="center">
-<a href="https://linkedin.com/in/mugilany29">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:mugilanmugil29@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
+  <p align="center">
+    <a href="https://linkedin.com/in/mugilany29"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mugilanmugil29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a> -->
+  </p>
 </div>
 
 ---
 
-# 👨‍💻 About Me
+```python
+class MugilanY:
+    def __init__(self):
+        # Identity
+        self.name = "Mugilan Y"
+        self.role = "AI / ML Engineer in Progress"
+        self.education = "Computer Science Student"
 
-I’m a Computer Science student focused on **Artificial Intelligence, Machine Learning, and scalable backend systems**.  
-I enjoy understanding systems **from fundamentals → to real production deployment**.
+        # Focus Areas
+        self.focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Neural Networks",
+            "Scalable Backend Systems",
+            "ML System Design"
+        ]
 
-- 🔭 Building **AI-enabled web apps and backend-heavy platforms**
-- 🌱 Learning **Neural Networks from scratch, backpropagation, and model internals**
-- 🧠 Exploring **ML system design, pipelines, and deployment workflows**
-- ⚙️ Interested in **turning research ideas into usable products**
-- ☕ Fun fact: coffee is basically my debugging framework
+        # Engineering Philosophy
+        self.approach = "Understand systems from fundamentals → to real production deployment"
+        self.goal = "Build intelligent, deployable systems solving real-world problems"
 
+        # Current Work
+        self.building = [
+            "AI-enabled web apps",
+            "Backend-heavy intelligent platforms",
+            "ML-integrated full-stack systems"
+        ]
+
+        # Learning Journey
+        self.learning = [
+            "Neural networks from scratch",
+            "Backpropagation & model internals",
+            "ML pipelines & deployment workflows",
+            "Turning research ideas into usable products"
+        ]
+
+        # Fun Detail
+        self.fuel = "Coffee (Debugging Framework v1.0)"
+
+    def say_hi(self):
+        print("Transforming math into models, and models into real-world impact.")
+
+```
 ---
 
-# 🤖 AI / ML Focus
-
-- Neural Network fundamentals  
-- Backpropagation understanding  
-- Model building from scratch  
-- Applied ML in real-world systems  
-- AI integration inside full-stack apps  
-- Deployable ML pipelines  
-
----
 
 # 🛠 Tech Stack
 
@@ -86,19 +102,19 @@ I enjoy understanding systems **from fundamentals → to real production deploym
 
 # 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mugil-an&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+- ⭐ Building AI-powered real-world applications  
+- 🧠 Learning neural networks from fundamentals  
+- ⚙️ Strong focus on backend + ML system design  
+- 🚀 Actively developing full-stack intelligent platforms  
 
 ---
+
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mugil-an/Mugil-an/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Mugil-an/Mugil-an/output/snake.svg"/>
 
 </div>
 
