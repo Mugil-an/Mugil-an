@@ -100,15 +100,6 @@ class MugilanY:
 
 ---
 
-# 🏆 Achievements
-
-- ⭐ Building AI-powered real-world applications  
-- 🧠 Learning neural networks from fundamentals  
-- ⚙️ Strong focus on backend + ML system design  
-- 🚀 Actively developing full-stack intelligent platforms  
-
----
-
 
 # 🐍 Contribution Snake
 
