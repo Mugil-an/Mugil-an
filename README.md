@@ -2,7 +2,7 @@
 
 <img src="./matrix-banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=root%40mugilan%3A~%24+whoami;compiling+neural+nets...;deploying+to+prod+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=root%40mugilan%3A~%24+whoami;training+neural+nets...;deploying+to+production" />
 
 <br/>
 
