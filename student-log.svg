@@ -1,0 +1,24 @@
+<svg width="920" height="270" viewBox="0 0 920 270" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="918" height="268" rx="6" fill="#0d1117" stroke="#22d3ee" stroke-width="1" stroke-opacity="0.45"/>
+<text x="28" y="38" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#8b949e" letter-spacing="1">student.log</text>
+<line x1="28" y1="50" x2="892" y2="50" stroke="#22d3ee" stroke-width="1" stroke-opacity="0.2"/>
+<text x="28" y="92" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" fill="#22d3ee">role</text>
+<text x="65.6" y="92" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#3d4452"> .......</text>
+<text x="190" y="92" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#e8ecf7">Computer Science Undergraduate (Final Year)</text>
+<text x="28" y="126" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" fill="#22d3ee">track</text>
+<text x="75.0" y="126" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#3d4452"> ......</text>
+<text x="190" y="126" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#e8ecf7">AI &amp; Machine Learning</text>
+<text x="28" y="160" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" fill="#22d3ee">status</text>
+<text x="84.4" y="160" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#3d4452"> .....</text>
+<text x="190" y="160" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#e8ecf7">building // learning // shipping</text>
+<text x="28" y="194" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" fill="#22d3ee">core</text>
+<text x="65.6" y="194" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#3d4452"> .......</text>
+<text x="190" y="194" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#e8ecf7">DSA . OS . DBMS . Computer Networks</text>
+<text x="28" y="228" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" fill="#22d3ee">specialize</text>
+<text x="122.0" y="228" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#3d4452"> ...</text>
+<text x="190" y="228" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#e8ecf7">Neural Nets . ML Systems . Backend Engineering</text>
+<text x="28" y="262" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" fill="#22d3ee">mission</text>
+<text x="93.8" y="262" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#3d4452"> ....</text>
+<text x="190" y="262" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#e8ecf7">research idea -&gt; production-ready system</text>
+<rect x="820" y="250" width="9" height="16" fill="#22d3ee" opacity="0.85"/>
+</svg>
